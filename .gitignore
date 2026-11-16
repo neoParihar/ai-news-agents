@@ -3,3 +3,4 @@ snapshots/
 .ipynb_checkpoints/
 __pycache__/
 output/
+cache/
